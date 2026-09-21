@@ -2,8 +2,8 @@ This project analyzes Titan Company Limited financial performance over 2 years t
 
 The project showcases my skills in:
 
-Financial statement analysis and ratio-based risk assessment
-Building a fully linked 3-statement financial model
-DCF valuation, WACC estimation, and sensitivity analysis
-Peer/competitor benchmarking for strategic insight
-Data preparation using Power Query and interactive visualization in Tableau
+1. **Financial statement analysis** and ratio-based risk assessment
+2. Building a fully linked **3-statement financial model**
+3. **DCF valuation, WACC estimation, and sensitivity analysis**
+4. Peer/competitor benchmarking for strategic insight
+5. Data preparation using Power Query and interactive visualization in Tableau
