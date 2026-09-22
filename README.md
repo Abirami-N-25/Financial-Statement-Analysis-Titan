@@ -5,5 +5,5 @@ The project showcases my skills in:
 1. **Financial statement analysis** and ratio-based risk assessment
 2. Building a fully linked **3-statement financial model**
 3. **DCF valuation, WACC estimation, and sensitivity analysis**
-4. Competitor benchmarking against**Kalyan Jewellers*** for strategic insight
+4. Competitor benchmarking against **Kalyan Jewellers** for strategic insight
 5. Data preparation using **Power Query** and interactive **visualization in Tableau**
