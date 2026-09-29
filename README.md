@@ -21,10 +21,14 @@ The project showcases my skills in:
 
 ---
 
-## 🖥️ Live Tableau Dashboard
-🔗 **[View the interactive dashboard on Tableau Public](your-tableau-public-link-here)**
+## 🧭 Dashboard Snapshot
 
-*(Replace the link above once your Tableau Public dashboard is published — see the DCF, ratio trends, and peer comparison visualized interactively.)*
+### 1️⃣ Financial Overview Dashboard
+Titan's FY2026 headline metrics (Revenue, EBITDA, PAT, ROE, Debt-to-Equity, EBITDA Margin), five-year Revenue and EBITDA trends (FY2022–FY2026), and a Titan vs. Kalyan Jewellers comparison on EBITDA Margin, Net Margin, and ROE.
+
+![Dashboard](Dashboard.png)
+
+The full interactive workbook (`Titan_Financial_Analysis.twbx`) is included in this repository — open it in [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Public](https://www.tableau.com/products/public) app to explore it directly.
 
 ---
 
